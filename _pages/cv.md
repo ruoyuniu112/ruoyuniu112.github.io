@@ -11,54 +11,43 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Ph.D. in Psychology**, Nanjing University, 2025
+* **M.S. in Psychology**, Shanghai University of Sport, 2020
 
-Work experience
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **2026 to present: Postdoctoral Researcher**
+  * Department of Psychology, Zhejiang University
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **2020 to 2021: Research Assistant**
+  * Center for Psychological Sciences, Zhejiang University
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Neuroimaging**
+  * fNIRS
+  * EEG
 
-Publications
+* **Programming and Software**
+  * MATLAB
+  * Python
+
+Selected Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* **2026**  
+  Niu, R., Li, Y., Liu, L., Pan, Y., & Liu, Y. (2026). Hierarchical neurobehavioral model reveals that shared flexibility, not individual stability, supports rhythmic coordination. *NeuroImage, 328*, 121773.
+
+* **2026**  
+  Niu, R., & Tang, R. (2026). Decoding cross-modality sensorimotor synchronization: Unveiling a general network using functional and efficiency networks. *Biological Psychology, 204*, 109213.
+
+* **2025**  
+  Niu, R., Huang, M., & Tang, R. (2025). Avatar or human, who is experiencing it? Impact of social interaction in virtual gaming worlds on personal space. *Computers in Human Behavior: Artificial Humans, 6*, 100237.
+
+* **2025**  
+  Niu, R., Jiang, Y., Sun, C., & Tang, R. (2025). Is dyadic Fitts’ Law task affected by action observation? *Journal of Motor Behavior, 57*(2), 153–164.
+
+* **2024**  
+  Niu, R., Xu, X., Tang, W., Xiao, Y., & Tang, R. (2024). Dance of two brains: Interval subdivision in alternated condition enhances resistance to interference by others. *NeuroImage, 298*, 120788.
+
+* **2019**  
+  Niu, R., Yu, Y., Li, Y., & Liu, Y. (2019). Use of fNIRS to characterize the neural mechanism of inter-individual rhythmic movement coordination. *Frontiers in Physiology, 10*, 781.
