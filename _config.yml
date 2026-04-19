@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : ""
+title                    : "Ruoyu's Bag End"
 title_separator          : "-"
 name                     : "Ruoyu's Bag End"
 description              : "Ruoyu's Bag End"   # Update this with a general description of your site, this is the default if not overridden by a page
