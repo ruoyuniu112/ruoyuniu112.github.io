@@ -3,7 +3,6 @@ title: "Hierarchical neurobehavioral model reveals that shared flexibility, not 
 collection: publications
 category: manuscripts
 permalink: /publication/2026-02-02-Hierarchical neurobehavioral model
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2026-02-02
 venue: 'Neuroimage'
 
