@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "air" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Ruoyu Niu"
 title_separator          : "-"
 name                     : "Ruoyu Niu"
-description              : "Academic personal website"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : "Ruoyu's Bag End"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : "https://ruoyuniu112.github.io"
 baseurl: ""
 repository               : "ruoyuniu112/ruoyuniu112.github.io"
@@ -33,7 +33,7 @@ author:
 
   # Academic websites
   googlescholar    : "https://scholar.google.com/citations?user=f4Ut48AAAAAJ&hl=zh-CN"
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-4218-6117"
   researchgate     : "https://www.researchgate.net/profile/Ruoyu-Niu?ev=hdr_xprf&_sg=SCu6EVuVY9MbKaVQWeGucOz9Asekt5XhRo1D_o9qrvEDBvmFc6CuN8bCLhNSf7FmrhdWoVNXcx5Lg061clR4Gfyx&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6Il9kaXJlY3QiLCJwYWdlIjoiX2RpcmVjdCIsInBvc2l0aW9uIjoiZ2xvYmFsSGVhZGVyIn19"
   
 
