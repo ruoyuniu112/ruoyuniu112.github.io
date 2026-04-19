@@ -37,13 +37,11 @@ Selected Publications
 * **2026**  
   Niu, R., Li, Y., Liu, L., Pan, Y., & Liu, Y. (2026). Hierarchical neurobehavioral model reveals that shared flexibility, not individual stability, supports rhythmic coordination. *NeuroImage, 328*, 121773.
 
-* **2026**  
   Niu, R., & Tang, R. (2026). Decoding cross-modality sensorimotor synchronization: Unveiling a general network using functional and efficiency networks. *Biological Psychology, 204*, 109213.
 
 * **2025**  
   Niu, R., Huang, M., & Tang, R. (2025). Avatar or human, who is experiencing it? Impact of social interaction in virtual gaming worlds on personal space. *Computers in Human Behavior: Artificial Humans, 6*, 100237.
 
-* **2025**  
   Niu, R., Jiang, Y., Sun, C., & Tang, R. (2025). Is dyadic Fitts’ Law task affected by action observation? *Journal of Motor Behavior, 57*(2), 153–164.
 
 * **2024**  
