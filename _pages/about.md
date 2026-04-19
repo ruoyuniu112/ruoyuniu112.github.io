@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ruoyu Niu"
+title: "☘☘☘"
 author_profile: true
 redirect_from: 
   - /about/
